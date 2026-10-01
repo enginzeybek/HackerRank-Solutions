@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Diagonal Difference\bin\Debug\net10.0\C# Diagonal Difference.exe
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Diagonal Difference\bin\Debug\net10.0\C# Diagonal Difference.deps.json
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Diagonal Difference\bin\Debug\net10.0\C# Diagonal Difference.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Diagonal Difference\bin\Debug\net10.0\C# Diagonal Difference.dll
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Diagonal Difference\bin\Debug\net10.0\C# Diagonal Difference.pdb
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Diagonal Difference\obj\Debug\net10.0\C# Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Diagonal Difference\obj\Debug\net10.0\C# Diagonal Difference.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Diagonal Difference\obj\Debug\net10.0\C# Diagonal Difference.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Diagonal Difference\obj\Debug\net10.0\C# Diagonal Difference.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Diagonal Difference\obj\Debug\net10.0\C# Diagonal Difference.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Diagonal Difference\obj\Debug\net10.0\C# Diagonal Difference.dll
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Diagonal Difference\obj\Debug\net10.0\refint\C# Diagonal Difference.dll
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Diagonal Difference\obj\Debug\net10.0\C# Diagonal Difference.pdb
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Diagonal Difference\obj\Debug\net10.0\C# Diagonal Difference.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Diagonal Difference\obj\Debug\net10.0\ref\C# Diagonal Difference.dll
