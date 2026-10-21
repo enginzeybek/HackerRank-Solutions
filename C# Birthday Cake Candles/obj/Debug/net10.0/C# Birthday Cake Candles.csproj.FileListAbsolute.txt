@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Birthday Cake Candles\bin\Debug\net10.0\C# Birthday Cake Candles.exe
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Birthday Cake Candles\bin\Debug\net10.0\C# Birthday Cake Candles.deps.json
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Birthday Cake Candles\bin\Debug\net10.0\C# Birthday Cake Candles.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Birthday Cake Candles\bin\Debug\net10.0\C# Birthday Cake Candles.dll
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Birthday Cake Candles\bin\Debug\net10.0\C# Birthday Cake Candles.pdb
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Birthday Cake Candles\obj\Debug\net10.0\C# Birthday Cake Candles.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Birthday Cake Candles\obj\Debug\net10.0\C# Birthday Cake Candles.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Birthday Cake Candles\obj\Debug\net10.0\C# Birthday Cake Candles.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Birthday Cake Candles\obj\Debug\net10.0\C# Birthday Cake Candles.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Birthday Cake Candles\obj\Debug\net10.0\C# Birthday Cake Candles.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Birthday Cake Candles\obj\Debug\net10.0\C# Birthday Cake Candles.dll
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Birthday Cake Candles\obj\Debug\net10.0\refint\C# Birthday Cake Candles.dll
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Birthday Cake Candles\obj\Debug\net10.0\C# Birthday Cake Candles.pdb
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Birthday Cake Candles\obj\Debug\net10.0\C# Birthday Cake Candles.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\HackerRank-Solutions\C# Birthday Cake Candles\obj\Debug\net10.0\ref\C# Birthday Cake Candles.dll
